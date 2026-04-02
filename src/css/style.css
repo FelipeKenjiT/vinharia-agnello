@@ -22,7 +22,7 @@
     background-color: rgba(201, 214, 163, 0.8);
     border-radius: 40px;
     width: 370px;
-    height: 250px;
+    height: 430px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -33,7 +33,7 @@
     font-family: 'Crimson Pro', serif;
     font-size: 40px;
     color: #000000;
-    margin-bottom: -25px;
+    margin-bottom: -35px;
 }
 
 .card h2{
@@ -43,7 +43,18 @@
     margin: 50px;
     font-weight: 50;
     text-align: center;
-    margin-bottom: -10px;
+    margin-bottom: 0px;
 }
 
 
+.card button{
+    background-color: #230229;
+    color: #ffffff;
+    border:#000000 solid 3px;
+    border-radius: 20px;
+    padding: 15px 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    cursor:pointer;
+    margin: 5px;
+}
